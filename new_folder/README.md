@@ -10,3 +10,5 @@ git checkout -b dev
 Зміни не відображаються оскільки були зроблені на іншій гілці
 
 будь які зміни
+
+![alt text](/wallpaperflare.com_wallpaper.jpg)
