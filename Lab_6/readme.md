@@ -17,4 +17,5 @@ Project's 95% confidence interval: 100 ... 120 points
 де 100 і 120 – значення мінімального та максимального CI(project).
 
 **Приклад виконання**
+
 ![image](https://github.com/BohdanRoshko/labs/assets/107959377/c2e33cdc-d4b2-4d75-b088-1200dc793473)
