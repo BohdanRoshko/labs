@@ -3,9 +3,15 @@
 Наприклад, якщо користувач вводить 9, він друкує nine. Щоб досягти цього, вам потрібно:
 
 • знайдіть пакет на PYPI, який може перетворювати числа на літери
+
 • додати requirements.txt
+
 • create a package with the logic (it has to be distributed across several modules)
+
 • створити пакет з логікою (він повинен бути розподілений на кілька модулів)
+
 • add documentation which passes default pydocstyle rules
+
 • додати документацію, яка відповідає стандартним правилам pydocstyle
+
 • налаштувати виконання через python -m ...
