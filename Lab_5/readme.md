@@ -15,3 +15,7 @@
 • додати документацію, яка відповідає стандартним правилам pydocstyle
 
 • налаштувати виконання через python -m ...
+
+**Приклад виконання**
+
+![image](https://github.com/BohdanRoshko/labs/assets/107959377/bfc28273-9807-443b-b7bb-ae7d6a1ec8b3)
